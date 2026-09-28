@@ -1,0 +1,4 @@
+# Binaries in releases/ are intended for GitHub Releases page rather than source tracking
+releases/
+*.exe
+*.zip
